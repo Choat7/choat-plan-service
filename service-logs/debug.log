@@ -1,0 +1,18 @@
+2023-04-08 14:27:08,408 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.6.7, Spring v5.3.19
+2023-04-08 14:47:21,639 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.6.7, Spring v5.3.19
+2023-04-08 14:48:55,923 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.6.7, Spring v5.3.19
+2023-04-08 14:51:50,420 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.6.7, Spring v5.3.19
+2023-04-08 14:59:57,916 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.6.7, Spring v5.3.19
+2023-04-08 15:01:03,990 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.6.7, Spring v5.3.19
+2023-04-08 15:12:44,059 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.6.7, Spring v5.3.19
+2023-04-08 15:14:33,908 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.6.7, Spring v5.3.19
+2023-04-08 15:17:50,438 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.6.7, Spring v5.3.19
+2023-04-08 15:18:25,124 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.6.7, Spring v5.3.19
+2023-04-08 15:26:44,692 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.6.7, Spring v5.3.19
+2023-04-08 15:27:09,195 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.6.7, Spring v5.3.19
+2023-04-08 15:28:42,002 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.6.7, Spring v5.3.19
+2023-04-08 15:29:32,284 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.6.7, Spring v5.3.19
+2023-04-08 15:31:37,844 DEBUG com.choat.plan.controller.ClientService [http-nio-60001-exec-2] 开始
+2023-04-08 15:31:37,845 DEBUG com.choat.plan.controller.ClientService [http-nio-60001-exec-2] 执行到这里了
+2023-04-08 15:32:16,014 DEBUG com.choat.plan.controller.ClientService [http-nio-60001-exec-9] 开始
+2023-04-08 15:32:16,015 DEBUG com.choat.plan.controller.ClientService [http-nio-60001-exec-9] 执行到这里了
